@@ -1,0 +1,18 @@
+{
+    "City": [
+        {
+            "id": 0,
+            "name": "Kyiv",
+            "country_id": 1
+        },
+        {
+            "id": 1,
+            "name": "Warsawa",
+            "country_id": 2
+        }
+    ],
+    "Country": [
+        { "id": 1, "name": "Ukraine" },
+        { "id": 2, "name": "Poland" }
+    ]
+}

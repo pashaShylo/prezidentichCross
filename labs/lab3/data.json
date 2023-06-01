@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "author": "Ivanov I.I",
+        "name": "Article about animals",
+        "nameOfNewspaper": "Name",
+        "numberOfNewspaper": "4",
+        "numOfPage": "3"
+    },
+    {
+        "id": 2,
+        "author": "Petrov P.P",
+        "name": "Travel Guide",
+        "nameOfNewspaper": "Travel Times",
+        "numberOfNewspaper": "10",
+        "numOfPage": "7"
+    },
+    {
+        "id": 3,
+        "author": "Sidorov S.S",
+        "name": "Cooking Tips",
+        "nameOfNewspaper": "Foodie Gazette",
+        "numberOfNewspaper": "2",
+        "numOfPage": "1"
+    },
+    {
+        "id": 4,
+        "author": "Ivanov I.I",
+        "name": "Movie Reviews",
+        "nameOfNewspaper": "Cinephile Chronicle",
+        "numberOfNewspaper": "7",
+        "numOfPage": "5"
+    },
+    {
+        "id": 5,
+        "author": "Shevchenko O.O",
+        "name": "Sports News",
+        "nameOfNewspaper": "Sports Daily",
+        "numberOfNewspaper": "15",
+        "numOfPage": "9"
+    }
+]
